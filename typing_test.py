@@ -13,7 +13,6 @@ sentences = [
 sentence = random.choice(sentences)
 
 # Greetings:
-print("Welcome to Zacktype, a speed type test by Zakaria")
 print("\nRULES:")
 print("You'll see a sentence at the screen, you have to type it as fast as you can and correctly.")
 
